@@ -7,7 +7,7 @@ Un streamer Streamlit pour détecter les maladies des plantes via un modèle de 
 
 ## Description
 
-Ce projet est une application web interactive développée avec **Streamlit**, destinée à la détection de maladies sur les feuilles de plantes. Le cœur du modèle repose sur **MobileNetV2** (pré-entraîné sur ImageNet), affiné via Transfer Learning sur un dataset de feuilles malades et saines. L’application permet à l’utilisateur d’uploader une image, puis affiche la prédiction et un score de confiance. Pour le moment c'est fiable que sur les données qu'on a parcequ'on a pas utilisé un enorme dataset.
+Ce projet est une application web interactive développée avec Streamlit, destinée à la détection de maladies sur les feuilles de plantes. Le cœur du modèle repose sur MobileNetV2 (pré-entraîné sur ImageNet), affiné via Transfer Learning sur un dataset de feuilles malades et saines. L’application permet à l’utilisateur d’uploader une image, puis affiche la prédiction et un score de confiance. Pour le moment c'est fiable que sur un certains nombres de plantes et malasies parce qu'on a pas utilisé un énorme dataset.
 
 ---
 
